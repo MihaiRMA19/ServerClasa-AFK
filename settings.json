@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1_26mcserver10b.aternos.me",
-    "port": 47350,
+    "ip": "creative10bserver.aternos.me",
+    "port": 11573,
     "version": "1.21.8"
   },
   "position": {
     "enabled": true,
-    "x": -753,
-    "y": 100,
-    "z": 1483
+    "x": 0,
+    "y": 2,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 500
       "messages": [
         "I'm a regular player",
         "Hello Players!",
